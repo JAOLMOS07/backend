@@ -11,8 +11,8 @@ class BooksApiTest extends TestCase
     /**
      * A basic test example.
      */
-    function can_get_all_books(): 
+    function can_get_all_books()
     {
-    
+        
     }
 }
